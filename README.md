@@ -19,7 +19,7 @@ We have the best services to offer you on our website
 -------------------------------------------------------------------------------------
 
 # A Picture Of The Project
-![1](https://github.com/user-attachments/assets/04c2afb9-eb62-4940-b9e1-b26454b0c8af)
+![1](https://github.com/user-attachments/assets/b6cbe0bf-d21b-4f79-8072-74f7f6aafadf)
 
 --------------------------------------------------------------------------------------
 
